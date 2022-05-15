@@ -1,0 +1,42 @@
+{
+  "name": "java/jre",
+  "description": "Java Runtime Environment",
+  "version": "18",
+  "versions": {
+    "18": {
+      "name": "java/jre",
+      "version": "18",
+      "description": "Java Runtime Environment",
+      "author": "Oracle",
+      "type": "java"
+    },
+    "17": {
+      "name": "java/jre",
+      "version": "17",
+      "description": "Java Runtime Environment",
+      "author": "Oracle",
+      "type": "java"
+    },
+    "16": {
+      "name": "java/jre",
+      "version": "16",
+      "description": "Java Runtime Environment",
+      "author": "Oracle",
+      "type": "java"
+    },
+    "11": {
+      "name": "java/jre",
+      "version": "11",
+      "description": "Java Runtime Environment",
+      "author": "Oracle",
+      "type": "java"
+    },
+    "8": {
+      "name": "java/jre",
+      "version": "8",
+      "description": "Java Runtime Environment",
+      "author": "Oracle",
+      "type": "java"
+    }
+  }
+}
