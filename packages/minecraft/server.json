@@ -1,0 +1,24 @@
+{
+  "name": "minecraft/server",
+  "description": "The official Minecraft server.",
+  "version": "1.18.2",
+  "versions": {
+    "1.18.2": {
+      "name": "minecraft/server",
+      "version": "1.18.2",
+      "description": "The official Minecraft server.",
+      "author": "Mojang",
+      "type": "server",
+      "jar": "server.jar",
+      "license": "proprietary",
+      "require": {
+        "java/jre": "^8"
+      },
+      "dist": {
+        "type": "application/java-archive",
+        "url": "https://launcher.mojang.com/v1/objects/c8f83c5655308435b3dcf03c06d9fe8740a77469/server.jar",
+        "sha256": "57be9d1e35aa91cfdfa246adb63a0ea11a946081e0464d08bc3d36651718a343"
+      }
+    }
+  }
+}
