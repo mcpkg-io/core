@@ -1,0 +1,21 @@
+{
+   "name":"paper/paper",
+   "description":"Paper is the next generation of Minecraft servers, compatible with Spigot plugins, offering uncompromising performance.",
+   "version":"1.18.1.71",
+   "versions":{
+      "1.18.1.71":{
+         "name":"paper/paper",
+         "version":"1.18.1.71",
+         "description":"Paper is the next generation of Minecraft servers, compatible with Spigot plugins, offering uncompromising performance.",
+         "author":"The PaperMC Team",
+         "type":"server",
+         "jar":"paper-1.18.1-71.jar",
+         "license":"GPL-3.0-or-later",
+         "dist":{
+            "type":"application/zip",
+            "url":"http://localhost:8000/storage/paper/paper/Ioe4RQ3kOqih7BIw5GYW95HXjjHE1mbNADiRRxmK.zip",
+            "sha256":"6a372405c6f6e668a7a87455198c35ee815b093e1d8ecc3eb0c90ca974c653f1"
+         }
+      }
+   }
+}
