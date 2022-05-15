@@ -1,7 +1,8 @@
 {
-   "updated_at":"2022-05-15 20:06:00",
-   "packages":[
-      "java/jre",
-      "paper/paper"
-   ]
+  "updated_at": "2022-05-15 20:34:00",
+  "packages": [
+    "java/jre",
+    "minecraft/server",
+    "paper/paper"
+  ]
 }
